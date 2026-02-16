@@ -1,0 +1,91 @@
+image_path,unrealistic,explanation
+f104.png,no,"Image appears realistic with natural lighting, consistent perspective, and no visible distortions or unnatural transitions between objects or scenery."
+f108.png,no,"Image shows realistic aerial view of bridge and cityscape with natural lighting, reflections, and proportions. No distorted faces or unnatural transitions observed."
+f114.png,no,"Bald eagles appear naturally posed, lighting and textures consistent. No distorted faces or unnatural transitions visible in the image."
+f124.png,no,"Bird's features and posture appear natural; lighting, texture, and focus realistic. No distorted face or unnatural object transitions detected."
+f126.png,no,"Leaf and wood textures look natural, lighting and focus realistic. No distortions, smooth transitions, or artificial elements observed."
+f134.png,no,"Image appears realistic; potatoes, bowl, and dill look natural with consistent lighting and shadows, no distortions or unnatural transitions visible."
+f136.png,no,Image appears natural with smooth lighting and realistic facial features. No visible distortions or unnatural transitions between subjects or background.
+f137.png,yes,"Strawberries display strange white text markings, not natural. Artificial overlay makes scene surreal and impossible in real life."
+f138.png,no,"Cabin blends naturally with forest; wood, roof, and porch appear consistent. No distortions or unnatural transitions visible in structure or surroundings."
+f143.png,no,Image appears staged but realistic. Lighting and proportions look natural. No distorted faces or unnatural transitions observed.
+f145.png,no,No visible distortions or unnatural transitions. Scene appears consistent with a lively park setting under natural lighting and perspective.
+f150.png,yes,"Liquid pours upward against gravity, defying physical laws, making the motion implausible and visually impossible in real life."
+f154.png,no,"Image appears natural with no distorted face or unnatural transitions. Lighting, shadows, and forest details look consistent and realistic."
+f167.png,no,"Salad looks natural, colors vibrant, textures consistent. No distorted faces or unnatural transitions. Realistic food presentation on plate."
+f170.png,no,Giraffe proportions and environment appear natural. No facial distortion or unnatural transitions visible. Image looks like authentic wildlife photography.
+f177.png,no,"Image appears realistic with natural lighting, proportions, and textures. No facial distortion or object transition issues visible."
+f178.png,no,Sunrise/sunset colors and silhouettes appear natural. Reflections and shadows align realistically. No distorted faces or unnatural transitions visible.
+f179.png,no,Image appears natural with realistic bloom and reflection. No distorted faces or unnatural transitions visible; composition looks authentic and serene.
+f185.png,no,"Turtle appears natural in grass setting; no distorted features or unnatural transitions visible. Lighting, texture, and proportions look realistic."
+f198.png,no,"Image appears realistic; player's pose, lighting, and stadium details consistent. No visible distortions or unnatural transitions."
+f218.png,no,"Scene appears realistic: proportions, textures, lighting, and composition are consistent. No distorted faces or unnatural transitions visible."
+f22.png,no,"Image appears natural; faces, lighting, and attire look realistic without distortion or unnatural transitions."
+f221.png,no,"Image appears realistic with natural lighting, consistent team uniforms, and natural athlete postures without facial distortion or unnatural transitions."
+f234.png,no,"All vegetables appear naturally arranged, colors and textures realistic, no distorted faces or unnatural transitions between objects."
+f244.png,no,"Car details sharp, reflections natural, background crowd and grass coherent. No distorted faces or unnatural transitions visible in this composition."
+f248.png,no,"No distortion or unnatural transitions visible. Players, ball, and uniforms appear realistic and proportionally aligned in natural lighting and perspective."
+f252.png,no,"No distortion or unnatural transitions visible. Players appear natural in motion, uniforms and background consistent. Realistic sports training scene."
+f259.png,no,"Muffins look realistically baked with blueberries, textures and lighting consistent. No distortions or unnatural transitions observed."
+f262.png,yes,"Boat is parked on land like a vehicle, not water. Contextually impossible without water or drydock setup. Lighting and shadows don't match real-world physics."
+f27.png,no,"Image appears realistic; soldiers, vehicles, and environment consistent. No distorted faces or unnatural transitions observed."
+f279.png,yes,"Moose's facial features appear distorted, teeth unnaturally exposed, and antlers seem oversized relative to body. Overall anatomy looks unnatural and digitally manipulated."
+f291.png,no,"Image appears realistic with natural lighting, proportions, and motion blur. Faces, uniforms, and soccer ball look authentic without distortion or unnatural transitions."
+f294.png,no,"All spices and ingredients appear naturally arranged, textures and colors consistent, no distortion or unnatural transitions visible in the composition."
+f296.png,no,"Bear appears naturally captured; fur, water splashes, and background look realistic without distortions or unnatural transitions."
+f30.png,no,"Image is a natural landscape with realistic lighting, fog, and road texture. No distorted faces or unnatural transitions visible."
+f300.png,no,"Image composition looks natural; seagull in flight, coastal cityscape, and ocean blend seamlessly with no visible distortions or unnatural transitions."
+f302.png,no,"Image depicts realistic rugby scrum with natural facial expressions, body positions, and lighting. No distorted faces or unnatural transitions visible."
+f318.png,no,"Image appears natural; no distorted faces or unnatural transitions. Market setup, lighting, and objects look consistent with real-world scenes."
+f320.png,no,"Image appears natural with realistic fur texture, eye detail, and lighting. No visible distortions or unnatural transitions observed."
+f334.png,no,Chicken wings on grill look natural with even glaze and smoke. No distorted faces or unnatural transitions visible in this food-focused image.
+f335.png,no,"Motorcycle appears proportionally accurate, lighting and shadows consistent, no distorted faces or unnatural object transitions visible in this image."
+f336.png,yes,"Dachshund balancing on surfboard in wave is physically implausible for its size and weight, appearing staged or digitally altered."
+f345.png,no,"Image appears natural; faces, lighting, and objects consistent. No distortion or unnatural transitions visible."
+f351.png,no,Wolf's anatomy and fur texture appear natural. Snow and lighting look consistent. No distortions or unnatural transitions visible in the image.
+f364.png,no,"Image appears realistic with natural lighting, skin texture, and depth of field. No distortions or unnatural transitions detected in facial features or objects."
+f376.png,no,"No distortions or unnatural transitions. Sky colors and lighting are artistic, not physically impossible. Architecture and perspective appear consistent and realistic."
+f377.png,no,"Crowd appears densely packed yet orderly, trees and sky natural. No distorted faces or unnatural transitions visible. Scene looks plausible for large outdoor gathering."
+f379.png,no,"Cow's facial features and proportions are natural, tags look realistic, background blur smooth. No distorted elements or unnatural transitions observed."
+f391.png,no,"Image appears natural with consistent lighting, proportions, and background details. No distorted faces or unnatural transitions visible."
+f394.png,yes,"Phones and cameras coexist oddly; phone's screen gradient and camera body designs look digitally altered, blending unrealistic aesthetics."
+f395.png,no,"Orange slice, whole oranges, and surface look natural. No distorted faces, unnatural transitions, or visual artifacts. Composition appears realistic."
+f396.png,no,No distorted faces or unnatural transitions. Gift wrapping and tree placement look plausible and consistent with festive holiday scene.
+f40.png,no,"Image appears photorealistic with natural lighting, proportions, and textures. No distorted faces or awkward transitions visible; elements align realistically."
+f405.png,no,"Room appears realistically staged with neutral colors, carpet, and window. No distortions or odd transitions visible in objects or lighting."
+f412.png,yes,"Massive crowd with identical raised arms and phone lighting looks overly uniform and digitally enhanced, lacking natural variation or shadows."
+f432.png,no,"All elements appear consistent with a gallery space; lighting, angles, and object placement look natural and proportionate with no visual distortions."
+f434.png,yes,"Text 'IRAIBO on RAWOI' is nonsensical and likely a joke. Flowers appear artificial, sign looks digitally altered, overall composition feels surreal and staged."
+f438.png,no,"Natural landscape with grass, forest, mountains, and storm clouds looks realistic. No distorted faces or unnatural transitions observed."
+f44.png,yes,"Dragon's face is overly exaggerated with sharp teeth and intense eyes, appearing cartoonish and distorted for a realistic creature."
+f444.png,no,"Image appears realistic. Lighting, shadows, and proportions consistent. No visible distortions or unnatural transitions in objects or facial features."
+f451.png,no,"Image appears realistic: boy, sand, playground equipment, and shadows all align naturally without distortion or unnatural transitions."
+f454.png,no,"Image appears natural; faces, lighting, and background consistent. No distortion or unnatural transitions observed in objects or subjects."
+f468.png,somewhat,"Facial details and clothing seams look digitally altered, with unnatural lighting and texture transitions on brick wall, suggesting AI-generated imagery."
+f470.png,no,Image appears to be a formal royal photograph with natural poses and lighting; no visible distortions or unnatural transitions.
+f479.png,somewhat,"Beard appears overly voluminous and perfectly styled, with lighting and texture that look enhanced, suggesting digital manipulation for dramatic effect."
+f53.png,no,"Image appears realistic; Leonardo DiCaprio's facial features and lighting are natural, no distortion or unnatural transitions observed."
+f65.png,yes,"Cows grazing before a castle is highly unusual; such a juxtaposition feels staged, lacking natural context for a rural scene near a grand historical structure."
+f76.png,no,"Castle and canal appear historically accurate, reflections and perspective natural. No distorted faces or abrupt transitions visible in the scene."
+f90.png,no,No distorted faces or unnatural transitions visible. Architecture and perspective appear consistent with real-world photography of Angkor Wat temple.
+r101.png,yes,"Player's arm and body blurred unnaturally, lights streaked, balls unnaturally bright. Depth and lighting transitions inconsistent with real pool table photography."
+r111.png,no,"Jet appears realistic in flight, proportions and details accurate. No distorted features or unnatural transitions visible against clear sky background."
+r17.png,no,"Image appears realistic with natural lighting, consistent perspective, and no visible distortions or unnatural transitions between objects."
+r19.png,no,Stacked stones balanced on sand near ocean look natural and stable; no distorted faces or unnatural transitions visible in this tranquil beach scene.
+r25.png,no,"Image appears natural with no distorted faces or abrupt transitions. Bridge, rocks, and foliage blend realistically in serene garden setting."
+r29.png,no,Scene looks natural and photorealistic. Lighting and shadows consistent with twilight coastal town. No distorted faces or unnatural transitions visible.
+r3.png,no,"Image appears realistic with natural lighting, consistent perspective, and coherent architecture. No distorted faces or unnatural transitions detected."
+r38.png,somewhat,"Sun's glare and cloud layer look overly dramatic and stylized, suggesting heavy post-processing for visual impact rather than natural lighting."
+r40.png,no,"Motorcyclist and bike are airborne, but proportions and motion are physically plausible. No distorted faces or unnatural transitions visible."
+r42.png,no,Dog's facial features and lighting appear natural. No distortion or unnatural transitions observed in the image.
+r45.png,somewhat,"Sphinx's face appears unnaturally smooth and stylized, contrasting with eroded body, suggesting digital enhancement or artistic exaggeration rather than natural erosion."
+r49.png,no,Car’s reflection and lighting look realistic; no distorted faces or unnatural transitions. Details like wheels and body paneling appear physically consistent with a luxury sports car.
+r50.png,no,Ferris wheel structure and sky appear realistic. No distorted faces or unnatural transitions. Perspective and lighting look consistent with a normal photo.
+r56.png,no,"Leaf and droplets appear natural; no distortion, unnatural transitions, or implausible details visible in this macro shot."
+r63.png,no,Natural lighting and mist create dreamy effect. Landscape details are consistent. No distortions or unnatural transitions visible.
+r64.png,no,"The horse and rider are mid-jump, muscles and motion look natural. Background and obstacle proportions are realistic. No visible distortions or unnatural transitions."
+r68.png,no,Penguins appear natural in pose and environment; no distorted faces or awkward transitions visible; looks like a genuine wildlife photograph.
+r70.png,no,No distortions or unnatural transitions visible. Reflections and posture appear realistic for rice planting in waterlogged fields.
+r83.png,somewhat,"Face and gear look distorted by motion blur; sky gradient unnatural. Parachute gear appears overly detailed for freefall, suggesting staged photo rather than authentic action."
+r89.png,no,Image depicts realistic windmill structure with natural lighting and proportions. No distorted faces or unnatural transitions visible.
+r9.png,no,"The elk appears natural in pose and lighting, with no visible facial distortion or unnatural object transitions. Antlers and fur textures look realistic."

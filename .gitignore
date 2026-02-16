@@ -1,0 +1,5 @@
+qwen3-vl-8b-realm-finetuned/
+qwen_lora_REALM_desc/
+unsloth_compiled_cache/
+*.pt
+*.safetensors
